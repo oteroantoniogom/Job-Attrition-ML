@@ -23,3 +23,6 @@ En general, este proyecto demuestra que es posible utilizar técnicas de machine
 
 # Autores 🧑‍💼
 Este proyecto fue realizado por Diego Alonso @DAlonso11 y Antonio Gómez @oteroantoniogom.
+
+# Licencia
+Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
